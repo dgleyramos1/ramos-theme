@@ -1,0 +1,34 @@
+{
+  "name": "dgleyramos",
+  "displayName": "ramos-theme",
+  "description": "Tema para uso pessoal, mas se quiser fique a vontade para usar!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "eu.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgleyramos1/ramos-theme"
+  },
+  "keywords": [
+    "ramos",
+    "theme",
+    "tema",
+    "dgley",
+    "dark-theme"
+  ],
+  "publisher": "dgleyramos1",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ramos Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ramos-theme.json"
+      }
+    ]
+  }
+}
