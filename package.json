@@ -21,11 +21,11 @@
     "dgley",
     "dark-theme"
   ],
-  "publisher": "dgleyramos1",
+  "publisher": "dgleyramos",
   "contributes": {
     "themes": [
       {
-        "label": "Ramos Theme",
+        "label": "ramos-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/ramos-theme.json"
       }
