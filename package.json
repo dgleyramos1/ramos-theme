@@ -2,7 +2,7 @@
   "name": "dgleyramos",
   "displayName": "ramos-theme",
   "description": "Tema para uso pessoal, mas se quiser fique a vontade para usar!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
